@@ -1,63 +1,63 @@
 # Miscellaneous Drawer — Academia SD
 
-Cajón de herramientas, instaladores y recursos que acompañan a los vídeos del canal
-[Academia SD](https://www.youtube.com/@AcademiaSD).
+Tools, installers and resources that accompany the videos on the
+[Academia SD](https://www.youtube.com/@Academia_SD) channel.
 
-Antes vivían dentro del repositorio de los nodos
-([comfyui_AcademiaSD](https://github.com/AcademiaSD/comfyui_AcademiaSD)). Se han
-separado para que ese paquete contenga solo el código de los nodos.
+These files used to live inside the node pack repository
+([comfyui_AcademiaSD](https://github.com/AcademiaSD/comfyui_AcademiaSD)). They were moved
+here so that repository holds nothing but the node code.
 
 ---
 
 ## `patches/`
 
-Parches para fallos actuales de **ComfyUI-Manager 4.2.2**. Son fallos del Manager, no de
-tu instalación, y no se arreglan actualizando porque 4.2.2 es la última versión que existe.
+Fixes for current bugs in **ComfyUI-Manager 4.2.2**. These are Manager bugs, not problems
+with your installation, and updating does not help because 4.2.2 is the latest release.
 
-| Archivo | Qué arregla |
+| File | What it fixes |
 |---|---|
-| `Fix_Manager_UpdateAll_Crash.bat` | El error `AttributeError: 'NoneType' object has no attribute 'content_type'` al pulsar **Update All** |
-| `Fix_Manager_CacheButtons.bat` | Los botones de limpiar caché (las escobitas) que desaparecieron de la barra |
+| `Fix_Manager_UpdateAll_Crash.bat` | `AttributeError: 'NoneType' object has no attribute 'content_type'` when clicking **Update All** |
+| `Fix_Manager_CacheButtons.bat` | The cache-clearing buttons that disappeared from the toolbar |
 
-**Cómo usarlos:** colocad el `.bat` en la carpeta `ComfyUI_windows_portable` (la que
-contiene `python_embeded`) y doble clic, con ComfyUI cerrado. Hacen copia de seguridad
-`.bak` antes de tocar nada y no hacen nada si ya están aplicados.
+**How to use:** put the `.bat` in your `ComfyUI_windows_portable` folder (the one containing
+`python_embeded`) and double-click it with ComfyUI closed. Each script backs the file up to
+`.bak` before touching anything and does nothing if the fix is already applied.
 
-> **Ojo:** los parches se pierden cada vez que se actualiza el Manager, porque sobrescribe
-> los archivos corregidos. Si el problema reaparece, volved a ejecutar el `.bat`.
-> Tras aplicar `Fix_Manager_CacheButtons.bat` hay que recargar con **Ctrl + F5**.
+> **Note:** these patches are lost every time ComfyUI-Manager is updated, because the update
+> overwrites the patched files. If the problem comes back, run the `.bat` again.
+> After `Fix_Manager_CacheButtons.bat`, reload the page with **Ctrl + F5**.
 
 ---
 
 ## `installers/`
 
-| Archivo | Para qué |
+| File | Purpose |
 |---|---|
-| `Install_ComfyUI_Internal-Manager_pip.bat` | Instala o actualiza el Manager interno en ComfyUI portable |
-| `Update_Requirements.bat` | Sincroniza dependencias cuando sale el aviso de versiones antiguas |
-| `Install_Google_Generative_AI_ComfyUI_portable.bat` | Dependencias de Google Gemini |
-| `Install_Triton&SageAttention220_ComfyUI.bat` | Triton y SageAttention 2.2.0 |
-| `LowVram_launchers.zip` | Lanzadores preparados para GPUs con poca VRAM |
-| `installer_google_ai.zip` | Instalador de Google AI |
+| `Install_ComfyUI_Internal-Manager_pip.bat` | Installs or updates the internal Manager on ComfyUI portable |
+| `Update_Requirements.bat` | Syncs dependencies when ComfyUI warns about outdated versions |
+| `Install_Google_Generative_AI_ComfyUI_portable.bat` | Google Gemini dependencies |
+| `Install_Triton&SageAttention220_ComfyUI.bat` | Triton and SageAttention 2.2.0 |
+| `LowVram_launchers.zip` | Launchers prepared for low-VRAM GPUs |
+| `installer_google_ai.zip` | Google AI installer |
 
-Todos se colocan en la carpeta `ComfyUI_windows_portable` y se ejecutan con doble clic.
+All of them go in the `ComfyUI_windows_portable` folder and run with a double click.
 
 ---
 
 ## `data/`
 
-Listas en JSON usadas por algunos vídeos y workflows: prompts de MiniMax-H3, listado de
-modelos y lista de descarga de Krea 2.
+JSON lists used by some videos and workflows: MiniMax-H3 prompts, a model list, and the
+Krea 2 download list.
 
 ---
 
 ## `node-images/`
 
-Capturas de los nodos, usadas en la documentación.
+Node screenshots used in the documentation.
 
 ---
 
-## Los nodos
+## The nodes
 
-El paquete de nodos sigue en su sitio:
+The node pack itself stays where it has always been:
 **https://github.com/AcademiaSD/comfyui_AcademiaSD**
