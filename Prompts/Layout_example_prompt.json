@@ -1,0 +1,489 @@
+{
+  "summary": {
+    "caption": "Vintage-style movie poster with three central figures against a nighttime street backdrop, warm lighting, and bold yellow title.",
+    "meta": "",
+    "canvas": "single",
+    "palette": ""
+  },
+  "items": [
+    {
+      "label": "text",
+      "caption": "Bold, uppercase, gold-colored text listing main actors and film title.",
+      "text": "JAVIER MONTORO • LUCÍA VEGA • ANTONIO CRUZ\nIN AIMA NOCHES",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.067,
+        0.025,
+        0.933,
+        0.077
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Large, distressed, yellow font with bold, blocky letters.",
+      "text": "MÁLAGA VICE",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.043,
+        0.71,
+        0.933,
+        0.847
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Smaller, white text with a tagline in Spanish.",
+      "text": "UNA NOCHE, TRES GANGSTERS. CERO PLANES.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.133,
+        0.85,
+        0.85,
+        0.87
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "White text with a promotional phrase.",
+      "text": "THIS SUMMER, THE COSTA DEL SOL GETS DANGEROUS.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.133,
+        0.899,
+        0.85,
+        0.915
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Rated R symbol in a black box.",
+      "text": "R",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.92,
+        0.927,
+        0.955,
+        0.962
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Small, black and white logo with 'RATED' and 'R' inside.",
+      "text": "RATED\nR\nRATING\nR",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.036,
+        0.92,
+        0.078,
+        0.97
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Small, white text indicating director.",
+      "text": "A FILM BY ALEJANDRO SERRANO",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.36,
+        0.957,
+        0.625,
+        0.97
+      ]
+    },
+    {
+      "label": "text",
+      "caption": "Small, white text indicating release status.",
+      "text": "COMING SOON",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.685,
+        0.957,
+        0.827,
+        0.967
+      ]
+    },
+    {
+      "label": "character",
+      "caption": "Woman in a white suit, holding a cigarette, standing between two men.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.286,
+        0.175,
+        0.77,
+        0.9
+      ]
+    },
+    {
+      "label": "character",
+      "caption": "Man in a dark suit, holding a briefcase, standing to the left.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.141,
+        0.087,
+        0.43,
+        0.74
+      ]
+    },
+    {
+      "label": "character",
+      "caption": "Man in a dark suit, standing to the right.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.565,
+        0.1,
+        0.843,
+        0.74
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Vintage blue car parked on the street.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.012,
+        0.383,
+        0.18,
+        0.555
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Black rotary telephone on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.012,
+        0.642,
+        0.095,
+        0.73
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Cup of coffee on a saucer.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.87,
+        0.819,
+        0.984,
+        0.9
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Sign with \"TAPAS\" in bold letters.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.788,
+        0.25,
+        0.978,
+        0.33
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red neon sign with \"Lionel Sty\" text.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.012,
+        0.138,
+        0.108,
+        0.26
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Palm tree against a dark sky.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.888,
+        0.092,
+        0.984,
+        0.19
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Tall stone tower with arched windows.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.808,
+        0.06,
+        0.89,
+        0.25
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Outdoor dining area with tables and chairs.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.818,
+        0.37,
+        0.984,
+        0.455
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Playing cards scattered on the pavement.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.012,
+        0.598,
+        0.133,
+        0.65
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Playing cards scattered on the pavement.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.085,
+        0.655,
+        0.168,
+        0.685
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Playing cards scattered on the pavement.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.86,
+        0.685,
+        0.933,
+        0.715
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    },
+    {
+      "label": "object",
+      "caption": "Red envelope on the ground.",
+      "tags": "",
+      "palette": "",
+      "box": [
+        0.857,
+        0.629,
+        0.984,
+        0.699
+      ]
+    }
+  ],
+  "auto": true,
+  "json": "{\"summary\":{\"caption\":\"Vintage-style movie poster with three central figures against a nighttime street backdrop, warm lighting, and bold yellow title.\",\"canvas\":\"single\"},\"items\":[{\"label\":\"text\",\"caption\":\"Bold, uppercase, gold-colored text listing main actors and film title.\",\"text\":\"JAVIER MONTORO • LUCÍA VEGA • ANTONIO CRUZ\\nIN AIMA NOCHES\",\"bbox\":[-806,-527,-717,527]},{\"label\":\"text\",\"caption\":\"Large, distressed, yellow font with bold, blocky letters.\",\"text\":\"MÁLAGA VICE\",\"bbox\":[356,-556,589,527]},{\"label\":\"text\",\"caption\":\"Smaller, white text with a tagline in Spanish.\",\"text\":\"UNA NOCHE, TRES GANGSTERS. CERO PLANES.\",\"bbox\":[593,-447,628,426]},{\"label\":\"text\",\"caption\":\"White text with a promotional phrase.\",\"text\":\"THIS SUMMER, THE COSTA DEL SOL GETS DANGEROUS.\",\"bbox\":[676,-447,704,426]},{\"label\":\"text\",\"caption\":\"Rated R symbol in a black box.\",\"text\":\"R\",\"bbox\":[724,510,784,554]},{\"label\":\"text\",\"caption\":\"Small, black and white logo with 'RATED' and 'R' inside.\",\"text\":\"RATED\\nR\\nRATING\\nR\",\"bbox\":[712,-565,798,-513]},{\"label\":\"text\",\"caption\":\"Small, white text indicating director.\",\"text\":\"A FILM BY ALEJANDRO SERRANO\",\"bbox\":[775,-171,798,152]},{\"label\":\"text\",\"caption\":\"Small, white text indicating release status.\",\"text\":\"COMING SOON\",\"bbox\":[775,224,793,398]},{\"label\":\"character\",\"caption\":\"Woman in a white suit, holding a cigarette, standing between two men.\",\"bbox\":[-552,-261,679,329]},{\"label\":\"character\",\"caption\":\"Man in a dark suit, holding a briefcase, standing to the left.\",\"bbox\":[-701,-437,408,-85]},{\"label\":\"character\",\"caption\":\"Man in a dark suit, standing to the right.\",\"bbox\":[-679,79,408,418]},{\"label\":\"object\",\"caption\":\"Vintage blue car parked on the street.\",\"bbox\":[-199,-594,94,-389]},{\"label\":\"object\",\"caption\":\"Black rotary telephone on the ground.\",\"bbox\":[240,-594,391,-492]},{\"label\":\"object\",\"caption\":\"Cup of coffee on a saucer.\",\"bbox\":[541,449,679,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Sign with \\\"TAPAS\\\" in bold letters.\",\"bbox\":[-424,350,-288,582]},{\"label\":\"object\",\"caption\":\"Red neon sign with \\\"Lionel Sty\\\" text.\",\"bbox\":[-614,-594,-407,-476]},{\"label\":\"object\",\"caption\":\"Palm tree against a dark sky.\",\"bbox\":[-692,471,-525,589]},{\"label\":\"object\",\"caption\":\"Tall stone tower with arched windows.\",\"bbox\":[-747,374,-424,475]},{\"label\":\"object\",\"caption\":\"Outdoor dining area with tables and chairs.\",\"bbox\":[-221,386,-76,589]},{\"label\":\"object\",\"caption\":\"Playing cards scattered on the pavement.\",\"bbox\":[166,-594,255,-446]},{\"label\":\"object\",\"caption\":\"Playing cards scattered on the pavement.\",\"bbox\":[262,-505,314,-403]},{\"label\":\"object\",\"caption\":\"Playing cards scattered on the pavement.\",\"bbox\":[313,437,365,527]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]},{\"label\":\"object\",\"caption\":\"Red envelope on the ground.\",\"bbox\":[218,434,338,589]}],\"bbox_coord_space\":\"abs_centralized\",\"bbox_format\":\"yxyx\"}",
+  "bg_opacity": 0.5
+}
